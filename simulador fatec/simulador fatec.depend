@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714746194 source:c:\users\pichau\documents\simulador fatec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
